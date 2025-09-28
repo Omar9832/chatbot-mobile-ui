@@ -48,3 +48,29 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+Project Description:
+
+This is a Chatbot UI Frontend Interface project, designed to provide users with a simplified and user-friendly means of communicating with an AI aid. It presents a simplified layout, smooth flow, and different sections carefully designed to improve both usability and user experience.
+
+Vital Features
+
+Authentication System
+================
+
+Members can create a new account or also login using their currently existing account information.
+
+After successful verification, the user gets directed to the main dashboard.
+
+Tabbed Navigation Interface
+================================
+
+Home Tab: It is the default chatbot interface from where a user can send messages, retrieve back responses, and chat with the AI real time.
+
+Subscriptions Tab: A tab for user subscription handling, viewing plans offered, and upgrading/downgrading of services.
+
+Contact Tab: Allows for contact information, including support information or developer contact, so an issue can be addressed or a question asked.
+
+
+The objective of this project is to develop an easily usable and contemporary frontend to chatbot applications with integrated account management and well-structured navigation, thereby making it applicable to real-world scenarios, for example, customer service, personal assistant, or subscription-based applications.
